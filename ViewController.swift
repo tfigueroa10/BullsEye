@@ -6,11 +6,6 @@
 //  Copyright © 2016 Tim Figueroa. All rights reserved.
 //  First Apprentice App
 
-/*  These comments represent use of GitHub and SourceTree
-    do not take these line seriously - there just testing
-    SourceTree and GitHub linking and use.
-*/
-
 
 //import libary of needed features
 import UIKit
