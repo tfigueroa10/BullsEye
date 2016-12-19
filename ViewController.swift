@@ -5,7 +5,6 @@
 //  Created by Tim Figueroa on 12/1/16.
 //  Copyright © 2016 Tim Figueroa. All rights reserved.
 //  First Apprentice App
-//  xxxxxxxx
 
 //import libary of needed features
 import UIKit
