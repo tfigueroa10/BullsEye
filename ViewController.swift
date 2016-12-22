@@ -18,8 +18,8 @@ class ViewController: UIViewController {
     var randomValue : Int = 0 //a random number value
     var currentSliderValue : Int = 0 //the slider value
     let setSliderToo : Int = 50 //use to set the slider to 50
-    var howClose : String = "" //how close you got comment
-    var yourScore : String = "" //calculated score
+    var howClose :  String = "" //how close you got comment
+    var yourScore :  String = "" //calculated score
     var scoreValue : Int = 0 //value assigned per difference
     var totalScore : Int = 0 //total game score
     var rounds : Int = 0 //number of rounds played
@@ -102,7 +102,7 @@ class ViewController: UIViewController {
     
     //set var to render the number of rounds
     func updateRounds() {
-        numRounds.text = String(rounds)
+       numRounds.text = String(rounds)
       }
     
     //set var to render the total score
